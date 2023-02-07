@@ -1,4 +1,6 @@
-#Mass Shooting Deaths Data Visualization
+# Mass Shooting Deaths Data Visualization
+
+<img width="1021" alt="Mass Shooting Deaths 2023" src="https://user-images.githubusercontent.com/96449305/217343831-29d3c4a8-8f6e-4244-9c1f-3922a493b0a4.png">
 
 ## Inspiration
 My daughter asked me the other day how many mass shooting deaths there had been this year because it already felt like so many for just being February. I saw this data viz opportunity and it was the first thing that came to mind while working on a hackathon data viz project. 
